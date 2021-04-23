@@ -26,7 +26,7 @@ Text Radio Button
 Image Checkbox   
 Single Accordion   
 Simple Notice   
-Dropdown Select2   
+Dropdown Select 2   
 Dropdown Posts   
 TinyMCE Editor   
 Google Font Select   
